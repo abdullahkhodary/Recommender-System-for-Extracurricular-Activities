@@ -1,0 +1,13 @@
+activity_id,provider_id,name,description,category,location,schedule,age_group,skill_level,cost,duration,frequency,max_participants,rating,created_at,updated_at
+1,1,Clay Modeling,Clay modeling and sculpting,Art,"202 Birch Road, Springfield, IL",Tue 4-5 PM,6-12,Beginner,10.0,1 hour,Weekly,10,4.6,2024-07-12 17:21:42.643170,2024-07-12 17:21:42.643170
+2,1,Drawing Classes,Drawing and sketching classes,Art,"202 Birch Road, Springfield, IL",Thu 4-5 PM,6-12,Intermediate,12.0,1 hour,Weekly,10,4.8,2024-07-12 17:21:42.643170,2024-07-12 17:21:42.643170
+3,1,Origami Workshop,Origami and paper crafts,Craft,"202 Birch Road, Springfield, IL",Sat 10-12 AM,6-12,Beginner,8.0,2 hours,Weekly,20,4.7,2024-07-12 17:21:42.643170,2024-07-12 17:21:42.643170
+4,2,Piano Lessons,Piano lessons for children,Music,"303 Cedar Street, Springfield, IL",Mon & Wed 3-4 PM,6-12,Beginner,15.0,1 hour,Weekly,10,4.6,2024-07-12 17:21:42.643170,2024-07-12 17:21:42.643170
+5,2,Guitar Classes,Guitar classes for beginners,Music,"303 Cedar Street, Springfield, IL",Tue & Thu 4-5 PM,6-12,Beginner,18.0,1 hour,Weekly,10,4.7,2024-07-12 17:21:42.643170,2024-07-12 17:21:42.643170
+6,2,Violin Training,Violin training sessions,Music,"303 Cedar Street, Springfield, IL",Fri 3-4 PM,6-12,Intermediate,20.0,1 hour,Weekly,10,4.5,2024-07-12 17:21:42.643170,2024-07-12 17:21:42.643170
+7,3,Science Experiments,Fun science experiments for kids,Science,"404 Walnut Avenue, Springfield, IL",Mon & Wed 4-5 PM,6-12,Beginner,12.0,1 hour,Weekly,15,4.8,2024-07-12 17:21:42.643170,2024-07-12 17:21:42.643170
+8,3,Robotics Club,Robotics building and programming,Technology,"404 Walnut Avenue, Springfield, IL",Tue & Thu 3-5 PM,6-12,Intermediate,20.0,2 hours,Weekly,20,4.9,2024-07-12 17:21:42.643170,2024-07-12 17:21:42.643170
+9,3,Astronomy Nights,Astronomy and stargazing sessions,Science,"404 Walnut Avenue, Springfield, IL",Fri 8-10 PM,6-12,Beginner,15.0,2 hours,Weekly,10,4.8,2024-07-12 17:21:42.643170,2024-07-12 17:21:42.643170
+10,4,Coding Bootcamp,Coding bootcamp for kids,Technology,"505 Chestnut Street, Springfield, IL",Mon & Wed 5-6 PM,6-12,Beginner,25.0,1 hour,Weekly,20,4.7,2024-07-12 17:21:42.643170,2024-07-12 17:21:42.643170
+11,4,Game Development,Game development workshops,Technology,"505 Chestnut Street, Springfield, IL",Tue & Thu 4-6 PM,6-12,Intermediate,30.0,2 hours,Weekly,15,4.9,2024-07-12 17:21:42.643170,2024-07-12 17:21:42.643170
+12,4,Web Design,Web design and development for kids,Technology,"505 Chestnut Street, Springfield, IL",Fri 3-5 PM,6-12,Intermediate,28.0,2 hours,Weekly,10,4.8,2024-07-12 17:21:42.643170,2024-07-12 17:21:42.643170
